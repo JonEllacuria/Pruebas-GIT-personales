@@ -1,5 +1,7 @@
 #1#
-x=5
+
 y=6
-suma=x+y
+z=7
+suma=x+y+z
+resta=x-y
 #1#
